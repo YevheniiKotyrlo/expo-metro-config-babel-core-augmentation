@@ -1,0 +1,4 @@
+{
+  "extends": "./tsconfig.transformer.json",
+  "files": ["node_modules/@expo/metro-config/build/ts-declarations/babel-core.d.ts"]
+}
